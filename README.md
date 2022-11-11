@@ -41,4 +41,4 @@ _**Equipo**_
 
 - 1. Elemento de la lista 1
 - 2. Elemento de la lista 2
-- 3. Elemento de la lista 3
+- 3. Elemento de la lista 3  
